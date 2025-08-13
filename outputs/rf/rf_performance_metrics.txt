@@ -1,0 +1,7 @@
+
+ Ensemble rf 
+Average ACC: 69.17 | Std ACC: 12.22,
+Average F1: 67.62 | Std F1: 13.53,
+Average PPV: 72.61 | Std PPV: 12.64,
+Average TPR: 69.17 | Std TPR: 12.22,
+Average ROC AUC: 75.83 | Std ROC AUC: 13.78

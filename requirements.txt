@@ -1,0 +1,26 @@
+scikit-learn  # For data preprocessing and machine learning models
+joblib  # To save and load models
+numpy  # Essential for numerical computations
+matplotlib  # General plotting library
+statsmodels  # For statistical modeling and tests
+imblearn
+torchmetrics
+tab_transformer_pytorch
+pytorch_lightning
+shap
+pytorch_tabular
+requests
+te2rules
+lightgbm
+
+matplotlib-inline==0.1.6
+pandas==2.2.0
+Pygments==2.17.2
+pyro-api==0.1.2
+pyro-ppl==1.8.6
+QtPy==2.4.1
+scipy==1.12.0
+seaborn==0.13.2
+sniffio==1.3.0
+tqdm==4.66.2
+xgboost==2.0.3
