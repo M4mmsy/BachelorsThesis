@@ -1,5 +1,7 @@
 !/data/
 /data/*
+/models/*
+/outputs/*
 !/data/training_single_emr.csv
 /src/results/*
 !/src/outputs
