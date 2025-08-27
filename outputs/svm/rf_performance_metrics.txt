@@ -1,7 +1,0 @@
-
- Ensemble svm 
-Average ACC: 80.83 | Std ACC: 11.15,
-Average F1: 80.28 | Std F1: 11.68,
-Average PPV: 83.29 | Std PPV: 10.93,
-Average TPR: 80.83 | Std TPR: 11.15,
-Average ROC AUC: 84.67 | Std ROC AUC: 13.79
